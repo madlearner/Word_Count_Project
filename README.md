@@ -23,7 +23,7 @@ The project consists of the following files:
 ## Setup Instructions
 
 ## To run the application, follow these steps:
-> Clone the Repository: git clone 
+> Clone the Repository: git clone https://github.com/madlearner/Word_Count_Project.git
 
 > Set Up Virtual Environment: 
 1. Create a virtual environment (optional but recommended): python -m venv .env
