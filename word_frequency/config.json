@@ -1,0 +1,10 @@
+{   
+    "file_paths": {
+        "raw_data_path": "./raw_data/raw_data.csv",
+        "clean_data_path": "./raw_data/clean_data.csv",
+        "db_file_path": "./word_frequency.db"
+    }, 
+    "processed_folder_path": "./processed_data/",
+    "common_words":
+        ["a", "the", "then", "and", "an", "it", "is", "to", "of", "in", "that", "this", "will"]
+}
