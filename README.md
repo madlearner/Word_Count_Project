@@ -38,8 +38,11 @@ The project consists of the following files:
 - To check the data in the SQL Table:
 Change the directory to word_frequency/ and then run the command
 >> sqlite3 word_frequency.db
+
 >> .headers on
+
 >> .mode column
+
 >> SELECT * FROM word_frequency;
 
 (Note: If you want to provide any csv file of the structure (“id”, “source”, “original_text”), then drop the file in raw_data/ folder)
